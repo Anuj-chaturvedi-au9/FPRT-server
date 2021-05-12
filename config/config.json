@@ -1,0 +1,5 @@
+{
+	"MongoURI": "mongodb+srv://admin:XSbjnMA9yDXRQjF@cluster0.wt8dj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"PORT": "5000",
+	"secret": "anuj12345677"
+}
